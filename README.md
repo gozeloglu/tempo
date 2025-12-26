@@ -45,11 +45,18 @@ Tempo is Jaeger, Zipkin, Kafka, OpenCensus, and OpenTelemetry compatible. It ing
 
 ## Getting started with Tempo
 
+### For Users
 - [Get started documentation](https://grafana.com/docs/tempo/latest/getting-started/)
 - [Deployment Examples](./example)
   - [Docker Compose](./example/docker-compose)
   - [Helm](./example/helm)
   - [Jsonnet](./example/tk)
+
+### For Contributors
+- **[Onboarding Guide](./ONBOARDING.md)** - Comprehensive guide to the codebase
+- **[Quick Start](./docs/sources/tempo/QUICKSTART.md)** - Quick reference for common tasks
+- **[Code Flow](./docs/CODE_FLOW.md)** - Understanding how traces flow through the code
+- [Contributing Guidelines](./CONTRIBUTING.md)
 
 ## Further reading
 
